@@ -6,10 +6,10 @@
         <li class="nav-item"><a href="?pag=servicos" class="nav-link">Serviços</a></li>
     </ul>
     <form id="busca" class="btn-group" action="http://search.freefind.com/find.html" method="GET">
-        <INPUT TYPE=HIDDEN NAME=id VALUE=78127359>
-        <INPUT TYPE=HIDDEN NAME=pid VALUE=r>
-        <INPUT TYPE=HIDDEN NAME=mode VALUE=ALL>
-        <INPUT type=HIDDEN name=n value=0>
+        <input type=hidden name=id value=78127359>
+        <input type=hidden name=pid value=r>
+        <input type=hidden name=mode value=ALL>
+        <input type=hidden name=n value=0>
         <input type=hidden name=lang value=pt>
         <input type=text name=query size=20>
         <button class="btn btn-primary"><i class="fas fa-search"></i></button>
