@@ -145,6 +145,10 @@ footer, footer>div, .corpo{
     color: rgb(194, 19, 19);
 }
 
+.fa-youtube-square{
+    color: rgb(194, 19, 19);
+}
+
 .fa-whatsapp-square{
     color: green;
 }
@@ -161,7 +165,7 @@ footer, footer>div, .corpo{
     color: black;
 }
 
-.fa-facebook-square:hover, .fa-twitter-square:hover, .fa-google-plus-square:hover, .fa-whatsapp-square:hover, .fa-linkedin:hover, .fa-envelope-square:hover, .fa-print:hover{
+.fa-facebook-square:hover, .fa-twitter-square:hover, .fa-google-plus-square:hover, .fa-youtube-square:hover, .fa-whatsapp-square:hover, .fa-linkedin:hover, .fa-envelope-square:hover, .fa-print:hover{
     color: rgba(190, 188, 24, 0.863);
 }
 

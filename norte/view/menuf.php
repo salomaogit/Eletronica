@@ -11,9 +11,13 @@
                 data-network-name="twitter">
                 <i class="fab fa-twitter-square text"></i>
             </a>
-            <a href="https://plus.google.com/" class="social-share-link" title="Norte Assistêcia via Google-Plus"
+            <!-- <a href="https://plus.google.com/" class="social-share-link" title="Norte Assistêcia via Google-Plus"
                 data-network-name="googleplus">
                 <i class="fab fa-google-plus-square text"></i>
+            </a> -->
+            <a href="https://www.youtube.com/" class="social-share-link" title="Norte Assistêcia via youtube"
+                data-network-name="youtube">
+                <i class="fab fa-youtube-square text"></i>
             </a>
             <a href="https://bit.ly/2pXTwc6" class="social-share-link" title="Norte Assistêcia via WhatsApp" data-network-name="pinterest">
                 <i class="fab fa-whatsapp-square text"></i>
