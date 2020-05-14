@@ -19,7 +19,7 @@
                 <div class=" text-center" id=titulo-img>
                     <img src="img/norte_logo.png" class="img-fluid logo-norte" alt="logo">
                 </div>
-                <div class="" id="titulo">
+                <div id="titulo">
                     <h2>Norte Assistência Técnica</h2>    
                 </div>
             </div>
