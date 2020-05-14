@@ -107,14 +107,16 @@ footer, footer>div, .corpo{
     box-shadow: 0.2rem 0.2rem 0.2rem grey;
 }
 
-.icon-rs {
+.text {
     font-size: 2.3rem;
     /* color: silver; */
 }
 
-.icon-rs:hover{
-    font-size: 2.6rem;
+.text:hover{
     color: rgba(190, 188, 24, 0.863);
+    flex-grow: 2;
+    font-size: 2.6rem;
+    transition: all 0.5s ease-in-out;
 }
 
 .post-footer {
@@ -169,11 +171,6 @@ footer, footer>div, .corpo{
 .fa-print{
     color: black;
 }
-
-/* .fa-facebook-square:hover, .fa-twitter-square:hover, .fa-google-plus-square:hover, .fa-youtube-square:hover, .fa-whatsapp-square:hover, .fa-linkedin:hover, .fa-envelope-square:hover, .fa-print:hover{
-    color: rgba(190, 188, 24, 0.863);
-} */
-
 
 @media screen and (max-width: 800px){
     header>div, header>div>nav{
