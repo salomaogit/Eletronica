@@ -6,9 +6,12 @@
             <a href="http://www.facebook.com/norteassistencia/" class="social-share-link" title="Norte Assistêcia no Facebook" data-network-name="facebook" target="_blank">
                 <i class="fab fa-facebook-square text"></i>
             </a>
-            <a href="http://twitter.com/" class="social-share-link" title="Norte Assistêcia via Twiter" data-network-name="twitter" target="_blank">
-                <i class="fab fa-twitter-square text"></i>
+            <a href="http://m.me/norteassistencia/" class="social-share-link" title="Norte Assistêcia no Messenger" data-network-name="messenger" target="_blank">
+                <i class="fab fa-facebook-messenger text"></i>
             </a>
+            <!-- <a href="http://twitter.com/" class="social-share-link" title="Norte Assistêcia via Twiter" data-network-name="twitter" target="_blank">
+                <i class="fab fa-twitter-square text"></i>
+            </a> -->
             <!-- <a href="https://plus.google.com/" class="social-share-link" title="Norte Assistêcia via Google-Plus" data-network-name="googleplus" target="_blank">
                 <i class="fab fa-google-plus-square text"></i>
             </a> -->
