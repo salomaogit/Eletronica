@@ -3,7 +3,7 @@
     <div class="social">
         <div class="social-icons">
             <!-- <p class="share-title">Compartilhar:</p> -->
-            <a href="http://www.facebook.com/" class="social-share-link" title="Norte Assistêcia no Facebook"
+            <a href="http://www.facebook.com/norteassistencia/" class="social-share-link" title="Norte Assistêcia no Facebook"
                 data-network-name="facebook">
                 <i class="fab fa-facebook-square text"></i>
             </a>
