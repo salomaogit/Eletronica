@@ -184,4 +184,8 @@ footer, footer>div, .corpo{
         text-align: center;
         padding-left: 0;
     }
+    .social-share-link{
+        padding-left: 4%;
+        padding-right: 4%;
+    }
 }
