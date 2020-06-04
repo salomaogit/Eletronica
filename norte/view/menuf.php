@@ -3,8 +3,8 @@
     <div class="social">
         <div class="social-icons">
             <!-- <p class="share-title">Compartilhar:</p> -->
-            <a href="http://www.facebook.com/norteassistencia/" class="social-share-link" title="Norte Assistêcia no Facebook" data-network-name="facebook" target="_blank">
-                <i class="fab fa-facebook-square text"></i>
+            <a href="http://m.me/norteassistencia/" class="social-share-link" title="Norte Assistêcia no Messenger" data-network-name="messenger" target="_blank">
+                <i class="fab fa-facebook-messenger text"></i>
             </a>
             <!-- <a href="https://plus.google.com/" class="social-share-link" title="Norte Assistêcia via Google-Plus" data-network-name="googleplus" target="_blank">
                 <i class="fab fa-google-plus-square text"></i>
@@ -12,8 +12,8 @@
             <a href="https://www.youtube.com/" class="social-share-link" title="Norte Assistêcia via youtube" data-network-name="youtube" target="_blank">
                 <i class="fab fa-youtube-square text"></i>
             </a>
-            <a href="http://m.me/norteassistencia/" class="social-share-link" title="Norte Assistêcia no Messenger" data-network-name="messenger" target="_blank">
-                <i class="fab fa-facebook-messenger text"></i>
+            <a href="http://www.facebook.com/norteassistencia/" class="social-share-link" title="Norte Assistêcia no Facebook" data-network-name="facebook" target="_blank">
+                <i class="fab fa-facebook-square text"></i>
             </a>
             <a href="https://bit.ly/2pXTwc6" class="social-share-link" title="Norte Assistêcia via WhatsApp" data-network-name="pinterest" target="_blank">
                 <i class="fab fa-whatsapp-square text"></i>
