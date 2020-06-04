@@ -35,5 +35,5 @@
 </div> 
 <div class="text-center menuf">
     <!-- <h4><a href="mailto:norteassistenciatecnica@gmail.com">norteassistenciatecnica@gmail.com</a></h4> -->
-    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | Este site foi criado <i class="fa fa-heart-o" aria-hidden="true"></i> por <a href="https://bit.ly/2PIXBJM" target="_blank">Salomão</a>
+    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | Contacte<i class="fa fa-heart-o" aria-hidden="true"></i> <a href="https://bit.ly/2PIXBJM" target="_blank">aqui</a> o criador do site.
 </div>
